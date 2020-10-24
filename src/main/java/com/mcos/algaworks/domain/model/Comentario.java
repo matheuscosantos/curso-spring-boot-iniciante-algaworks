@@ -1,4 +1,4 @@
-package com.mcos.algaworks.domain.models;
+package com.mcos.algaworks.domain.model;
 
 import java.time.LocalDateTime;
 

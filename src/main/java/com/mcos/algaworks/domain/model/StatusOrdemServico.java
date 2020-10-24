@@ -1,4 +1,4 @@
-package com.mcos.algaworks.domain.models;
+package com.mcos.algaworks.domain.model;
 
 public enum StatusOrdemServico {
     ABERTA,
